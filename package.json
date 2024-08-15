@@ -19,17 +19,17 @@
   },
   "homepage": "https://github.com/stellar/frontend-helpers#readme",
   "dependencies": {
-    "@sentry/browser": "^6.13.2",
-    "@sentry/tracing": "^6.13.2",
+    "@sentry/browser": "^8.26.0",
+    "@sentry/tracing": "^7.114.0",
     "lodash.throttle": "^4.1.1",
-    "typescript": "^4.4.3"
+    "typescript": "^5.5.4"
   },
   "devDependencies": {
     "@stellar/eslint-config": "^2.1.1",
     "@stellar/prettier-config": "^1.0.1",
     "@stellar/tsconfig": "^1.0.2",
     "@types/lodash.throttle": "^4.1.6",
-    "@types/node": "^16.10.2",
+    "@types/node": "^22.3.0",
     "tslib": "^2.3.1"
   }
 }
