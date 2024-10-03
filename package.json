@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/stellar/frontend-helpers#readme",
   "dependencies": {
-    "@sentry/browser": "^6.13.2",
+    "@sentry/browser": "^8.33.0",
     "@sentry/tracing": "^6.13.2",
     "lodash.throttle": "^4.1.1",
     "typescript": "^4.4.3"
